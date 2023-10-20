@@ -1,6 +1,4 @@
-This is the beginning of a basic banking app.  It is a single page app (SPA) written in React.  It uses React Router for navigation and Bootstrap for layout and styling. 
- It uses a RESTful API written in Node.js and Express for all database transactions. 
- The database is MongoDB.  
+This is the beginning of a basic banking app. 
 Install dependencies
 npm install
 
