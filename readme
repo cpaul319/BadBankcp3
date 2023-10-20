@@ -1,0 +1,11 @@
+This is the beginning of a basic banking app.  It is a single page app (SPA) written in React.  It uses React Router for navigation and Bootstrap for layout and styling. 
+ It uses a RESTful API written in Node.js and Express for all database transactions. 
+ The database is MongoDB.  
+Install dependencies
+npm install
+
+Create a Mongo Docker Image
+
+docker run -p 27017:27017 --name badbank -d mongo
+
+
